@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		BD12DAD6262EA6480024A499 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD12DAD5262EA6480024A499 /* SecondViewController.swift */; };
+		BD12DADB262EB7750024A499 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD12DADA262EB7750024A499 /* LoginViewController.swift */; };
 		BDDDD937262D81C800DB4329 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDDD936262D81C800DB4329 /* AppDelegate.swift */; };
 		BDDDD939262D81C800DB4329 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDDD938262D81C800DB4329 /* SceneDelegate.swift */; };
 		BDDDD93B262D81C800DB4329 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDDDD93A262D81C800DB4329 /* FirstViewController.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		BD12DAD5262EA6480024A499 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		BD12DADA262EB7750024A499 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		BDDDD933262D81C800DB4329 /* GithubTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GithubTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDDDD936262D81C800DB4329 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BDDDD938262D81C800DB4329 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				BDDDD938262D81C800DB4329 /* SceneDelegate.swift */,
 				BDDDD93A262D81C800DB4329 /* FirstViewController.swift */,
 				BD12DAD5262EA6480024A499 /* SecondViewController.swift */,
+				BD12DADA262EB7750024A499 /* LoginViewController.swift */,
 				BDDDD93C262D81C800DB4329 /* Main.storyboard */,
 				BDDDD93F262D81CA00DB4329 /* Assets.xcassets */,
 				BDDDD941262D81CA00DB4329 /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 				BD12DAD6262EA6480024A499 /* SecondViewController.swift in Sources */,
 				BDDDD93B262D81C800DB4329 /* FirstViewController.swift in Sources */,
 				BDDDD937262D81C800DB4329 /* AppDelegate.swift in Sources */,
+				BD12DADB262EB7750024A499 /* LoginViewController.swift in Sources */,
 				BDDDD939262D81C800DB4329 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
