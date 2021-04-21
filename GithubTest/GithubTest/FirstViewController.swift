@@ -9,11 +9,15 @@ import UIKit
 
 class FirstViewController: UIViewController {
 
+    @IBOutlet weak var countLabel: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
+    @IBAction func countStepper(_ sender: UIStepper) {
+        countLabel.text = "\(Int(sender.value))"
+    }
+    
 
 }
 
